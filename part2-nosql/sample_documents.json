@@ -1,0 +1,60 @@
+[
+  {
+    "_id": "ELEC1001",
+    "name": "Samsung 55-inch 4K Smart TV",
+    "category": "Electronics",
+    "price": 55000,
+    "brand": "Samsung",
+    "specifications": {
+      "screen_size": "55 inch",
+      "resolution": "4K UHD",
+      "voltage": "220-240V",
+      "smart_tv": true
+    },
+    "warranty": {
+      "period": "2 years",
+      "type": "Manufacturer"
+    },
+    "available_colors": ["Black"],
+    "ratings": {
+      "average": 4.5,
+      "reviews_count": 1200
+    }
+  },
+  {
+    "_id": "CLOT2001",
+    "name": "Men's Casual Denim Jacket",
+    "category": "Clothing",
+    "price": 2499,
+    "brand": "Levi's",
+    "size_options": ["S", "M", "L", "XL"],
+    "material": "Denim",
+    "color": "Blue",
+    "care_instructions": [
+      "Machine wash cold",
+      "Do not bleach",
+      "Iron at low temperature"
+    ],
+    "stock": {
+      "warehouse": 150,
+      "store": 40
+    }
+  },
+  {
+    "_id": "GROC3001",
+    "name": "Organic Almonds 500g",
+    "category": "Groceries",
+    "price": 650,
+    "brand": "Nature's Basket",
+    "expiry_date": "2024-12-15",
+    "manufacture_date": "2024-06-15",
+    "nutritional_info": {
+      "calories": 579,
+      "protein": "21g",
+      "fat": "50g"
+    },
+    "ingredients": ["Almonds"],
+    "storage_instructions": "Store in a cool, dry place",
+    "is_organic": true
+  }
+]
